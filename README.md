@@ -30,5 +30,5 @@ My name is Eliel Schubert, I'm 20 years old and i'm learning to code.
   />
 </picture>
 
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2AE8&height=120&section=footer"/>
 
