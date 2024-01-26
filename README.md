@@ -1,7 +1,13 @@
 ## Hi! Welcome to my profile!
-![elielschubert GitHub  stats](https://github-readme-stats.vercel.app/api?username=elielschubert&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elielschubert&layout=compact)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2AE8&height=120&section=header"/>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elielschubert&show_icons=true&count_private=true&hide_border=true&title_color=A867FF&icon_color=A867FF&text_color=A867FF&bg_color=0d1117" alt="Eliel Schubert github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielschubert&layout=compact&hide_border=true&title_color=A867FF&text_color=A867FF8&bg_color=0d1117" />
+</div>
+
 ---
+
 ### About me
 My name is Eliel Schubert, I'm 20 years old and i'm learning to code.
  * Interests: Front-End and Cybersecurity;
