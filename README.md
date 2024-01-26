@@ -25,4 +25,4 @@ My name is Eliel Schubert, I'm 20 years old and i'm learning to code.
 </picture>
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Currently+listening+to:)](https://git.io/typing-svg)
+
