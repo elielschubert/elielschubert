@@ -1,5 +1,5 @@
 ## Hi! Welcome to my profile!
-![elielschubert GitHub  stats](https://github-readme-stats.vercel.app/api?username=elielschubert&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
+![elielschubert GitHub  stats](https://github-readme-stats.vercel.app/api?username=elielschubert&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elielschubert&layout=compact)
 ---
 ### About me
