@@ -23,7 +23,6 @@ My name is Eliel Schubert, I'm 20 years old and i'm learning to code.
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ---
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
